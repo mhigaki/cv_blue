@@ -612,7 +612,7 @@ ENDS 06. MODULE MAIN CONTENT
 
 .ul_info  li  .label {
     font-weight: 700;
-    width: 60px;
+    width: 90px;
     float: left;
     font-style: bold;
     display: inline-block;
@@ -620,7 +620,7 @@ ENDS 06. MODULE MAIN CONTENT
 
 .ul_info  .span {
     float: left;
-    width: 240px;
+    width: 210px;
 }
 
 .home_info_mb {
